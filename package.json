@@ -1,0 +1,26 @@
+{
+  "name": "jest-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farahriz/jest-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farahriz/jest-intro/issues"
+  },
+  "homepage": "https://github.com/farahriz/jest-intro#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
